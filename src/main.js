@@ -1,3 +1,4 @@
+import './styles.css';
 const menuItems = [
   { name: 'Espresso', description: 'Deep, rich, and smooth with a velvety crema.', price: 'LKR 500', category: 'Coffee', image: 'https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=900&q=80', available: true },
   { name: 'Cappuccino', description: 'Silky milk, bold espresso, and a cocoa finish.', price: 'LKR 680', category: 'Coffee', image: 'https://images.unsplash.com/photo-1497636577773-f1231844b336?auto=format&fit=crop&w=900&q=80', available: true },
